@@ -1,7 +1,13 @@
-*title {
+body {
+    color: blue;
+    text-align: center;
     background-color: brown;
 }
 
-*h1{
-    
+h1{
+    color: chartreuse;
+}
+
+h3 {
+    color: darkgrey;
 }
